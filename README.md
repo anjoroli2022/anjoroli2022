@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hola, soy Antonio José Rodríguez Linares 👋
 
-<!--
-**anjoroli2022/anjoroli2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ingeniero de Sistemas y especialista en Gerencia de Proyectos. Soy profesor del **Centro de Competencias Digitales** y de la **Facultad de Ingeniería de Sistemas** de la **UNAB** (Bucaramanga, Colombia). Llevo más de 15 años liderando proyectos tecnológicos en el sector público y el privado.
 
-Here are some ideas to get you started:
+### 🎯 En qué trabajo
+- Analítica digital y de datos aplicada a la educación
+- Inteligencia artificial: visión por computador e IA generativa
+- Diseño de cursos y evaluación digital (Moodle, Canvas)
+- Investigación de Operaciones
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Proyectos en curso
+| Proyecto | Descripción |
+|---|---|
+| Clasificador de granos | Red neuronal convolucional (CNN) que clasifica granos de frijol (aceptado / defectuoso) sobre una banda transportadora |
+| Material de Investigación de Operaciones II | Modelos y ejercicios resueltos para el curso de Ingeniería de Sistemas |
+
+### 🛠️ Herramientas
+Python · Excel · Git · Moodle · Canvas
+
+### 📫 Contacto
+[LinkedIn](https://www.linkedin.com/in/anjoroli/) · [YouTube](https://www.youtube.com/@AntonioRodriguezLinares)
